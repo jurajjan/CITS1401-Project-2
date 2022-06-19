@@ -2,7 +2,6 @@
 Created on 10/05/2021
 
 @author: Juraj Janekovic
-student number: 23092238
 """
 
 
